@@ -1,2 +1,7 @@
 # Lifestyle
-Site web
+
+Page web simple
+
+-HTML5
+
+-CSS3 
